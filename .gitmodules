@@ -1,0 +1,3 @@
+[submodule "omme-adapter"]
+	path = omme-adapter
+	url = https://github.com/ngothanh/omme-adapter.git
